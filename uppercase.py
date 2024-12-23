@@ -1,5 +1,4 @@
 
-
 txt=input("Enter Text")
 s=''
 x=txt.split()
