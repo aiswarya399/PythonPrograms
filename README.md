@@ -1,0 +1,1 @@
+An Exam conducted for a subject with n modules with two questions from each module. Given n and marks of a candidate for all questions. if student answered two questions from each module greater mark will taken. python program for finding total marks.
