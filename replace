@@ -1,0 +1,11 @@
+# a string S with n Blanks(type underscore) and digits in the remainig positions
+#find whether the number obtained by substituting n given digits in the blank space in S in the enterd order , multiplied by 11 or not
+s=input("enter the input string")
+d=input("enter replacing string")
+ld=len(d)
+digit=int(d[:ld]+s[ld:])
+print("digit =",digit)
+if digit%11 == 0:
+  print("Multiple of 11")
+else:
+  print("not a multiple of 11")
