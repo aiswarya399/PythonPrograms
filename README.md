@@ -1,1 +1,2 @@
 Exam Mark - An Exam conducted for a subject with n modules with two questions from each module. Given n and marks of a candidate for all questions. if student answered two questions from each module greater mark will taken. python program for finding total marks.
+uppercase -  given a sentance this is the program to print a string constructed by upper case of characters from the first postions of each word in that sentance, Except the words "and" "of" and "to".
